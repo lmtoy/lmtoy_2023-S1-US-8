@@ -27,17 +27,21 @@ on["HI10"] =  [ 105759, 105760, 105761,]
 
 on["HI5"] =  [ 105755, 105756, 105757,]
 
+on["HI6"] =  [ 106364, 106365, 106366, 106367,]
+
 pars1 = {}
 
 pars1["C4"] = ""
 pars1["HI10"] = ""
 pars1["HI5"] = ""
+pars1["HI6"] = ""
 
 pars2 = {}
 
 pars2["C4"] = ""
 pars2["HI10"] = ""
 pars2["HI5"] = ""
+pars2["HI6"] = ""
 
 if __name__ == "__main__":
     runs.mk_runs(project, on, pars1, pars2)
