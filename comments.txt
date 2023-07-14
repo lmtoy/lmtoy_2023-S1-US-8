@@ -1,3 +1,18 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 
-110172  BAD - low EL=20
+106659 BAD: less than 2 working boards in bands 1, 2, 3, 4, and 5
+106660 BAD: less than 2 working boards in band 2
+106661 BAD: RMS/RMS0 ratio > 1.4
+109131 BAD: less than 2 working boards in band 3
+109132 BAD: less than 2 working boards in bands 1 and 3
+109139 BAD: less than 2 working boards in bands 3 and 5
+109140 BAD: RMS/RMS0 ratio > 1.4
+
+106651_107091 Possible detections in band 1
+107196_110172 Possible detections in band 1
+105755_105757 No clear detections
+106364_106367 No clear detections
+105759_105761 No clear detections
+105763_105765 No clear detections
+
+
