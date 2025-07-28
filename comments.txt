@@ -1,3 +1,5 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 
 110172  BAD - low EL=20
+
+106368  no valid data
